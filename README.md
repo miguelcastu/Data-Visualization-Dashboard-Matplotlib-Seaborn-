@@ -40,11 +40,8 @@ All exported automatically.
 - `superstore_dataset2012.csv`
 - Saved figures in the root folder
 
----
-## Requirements
+
+## ▶️ Requirements and run the Program
 ```bash
 pip install pandas numpy matplotlib seaborn
-
-## ▶️ Run the Program
-```bash
 python Dashboards.py
