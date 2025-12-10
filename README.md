@@ -41,6 +41,9 @@ All exported automatically.
 - Saved figures in the root folder
 
 ---
+## Requirements
+```bash
+pip install pandas numpy matplotlib seaborn
 
 ## ▶️ Run the Program
 ```bash
